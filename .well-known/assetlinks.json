@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.jennysinok.shiftspro",
+        "sha256_cert_fingerprints": ["75:2A:AD:21:50:29:F1:6B:5D:3D:E6:DD:A2:9B:6A:EA:87:EF:0B:E3:10:C4:29:D8:DA:18:69:54:0E:D1:A4:CD"]
+      }
+    }]
